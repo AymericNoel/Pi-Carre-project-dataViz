@@ -1,6 +1,8 @@
 # FullStack application : Data Visualisation 
 ---------
 
+
+
 ## The Project 
 
 First of all, the dollar cost averaging is an investment with the goal of reducing the impact of volatility large purchases of financial assets such as equities. By dividing the total sum to be invested in the market (e.g. $100,000) into equal amounts put into the market at regular
