@@ -13,7 +13,7 @@ According to the matter, we are 2 teams which work on the same subject but we ha
 
 ## The Backend
 
-For the backend, we use nodeJS. Our database was postreSQL. In the backend, we have 4 files : 
+For the backend, we use nodeJS. Our database was postreSQL. The routes were defined thanks to *express*. In the backend, we have 4 files : 
 - server.js which is our server
 - controllers/auth.js which has the routes for the api in order to connect to the website
 - controllers/middleware.js which contains all the middlewares to secure the website. They are used to restrict access to users who do not have rights to them. Each user can only see his own dashboard
